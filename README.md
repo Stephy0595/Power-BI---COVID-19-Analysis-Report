@@ -6,7 +6,7 @@ In this project, I will demonstrate how to analyze the COVID-19 dataset using Po
 
 The goal is to demonstrate the utilization of multiple visual elements, interactivity features, and in-depth insights into the data.
 
-# Steps involved
+## Steps involved
 
 1.Data Import and Preparation
 
